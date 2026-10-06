@@ -1,0 +1,6 @@
+{
+  "name": "Python Mystery Quiz",
+  "description": "An animated mystery box Python quiz platform for college students with real-time timers, anti-cheat detection, and gamified rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
